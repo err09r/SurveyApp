@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
 
-Simple app for conducting A/B testing build with Kotlin and Jetpack Compose.
+Simple app for conducting A/B testing built with Kotlin and Jetpack Compose.
 
 # 
 
